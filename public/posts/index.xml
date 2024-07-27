@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Luke&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Luke&#39;s Blog</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jul 2024 11:25:45 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>http://localhost:1313/posts/git/</link>
+      <pubDate>Sat, 27 Jul 2024 11:25:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/git/</guid>
+      <description>Introduction to Git In the fast-paced world of software development, effective version control is essential for collaboration, code management, and project integrity. Enter Git, a distributed version control system that has become the industry standard, empowering developers to work seamlessly on projects of any size.
+Key Concepts of Git 1. Distributed Version Control: Git follows a distributed model, allowing every contributor to have a complete copy of the project&amp;rsquo;s history on their local machine.</description>
+    </item>
+    <item>
+      <title>About Hugo</title>
+      <link>http://localhost:1313/posts/about-hugo/</link>
+      <pubDate>Sat, 27 Jul 2024 11:25:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/about-hugo/</guid>
+      <description>Hugo is a popular open-source static site generator written in Go. It&amp;rsquo;s designed to be fast, simple to use, and highly flexible, making it an excellent choice for building websites of various sizes and types.
+Key Features 1. Speed One of Hugo&amp;rsquo;s standout features is its incredible speed. It&amp;rsquo;s built to generate static websites quickly, making it an efficient choice for developers who want to minimize build times.
+2. Simplicity Hugo follows the principle of simplicity.</description>
+    </item>
+    <item>
+      <title>Aws</title>
+      <link>http://localhost:1313/posts/aws/</link>
+      <pubDate>Sat, 27 Jul 2024 11:25:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/aws/</guid>
+      <description>Amazon Web Services (AWS) has revolutionized the world of cloud computing, providing a robust and scalable platform for businesses, startups, and developers. With a vast array of services covering computing, storage, machine learning, and more, AWS empowers organizations to build, deploy, and scale applications with ease.
+Key Features of Amazon Web Services: 1. Compute Services: AWS offers a variety of compute services, including Amazon EC2 (Elastic Compute Cloud) for scalable virtual servers, AWS Lambda for serverless computing, and AWS Elastic Beanstalk for easy application deployment.</description>
+    </item>
+  </channel>
+</rss>
